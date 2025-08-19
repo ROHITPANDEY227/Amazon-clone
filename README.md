@@ -16,4 +16,4 @@ It recreates the basic layout and design of Amazon’s front page.
 - Font Awesome (icons)
 
   **Live Link**
-  https://rohitpandey227.github.io/Amazon-clone/
+ (https://rohitpandey227.github.io/Amazon-clone/)
