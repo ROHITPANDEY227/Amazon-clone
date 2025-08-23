@@ -11,7 +11,10 @@ It mimics the front page of Amazon with a focus on **UI design and responsive la
 ---
 
 ## 📸 Preview
-(Add a screenshot of your project here, e.g. `![Screenshot](images/screenshot.png)`)
+(Add a screenshot of your project here, e.g. ## 📸 Screenshot
+
+![Project Screenshot](screenshot.png)
+
 
 ---
 
